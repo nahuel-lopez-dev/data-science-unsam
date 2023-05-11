@@ -10,7 +10,7 @@
 ![](img/portada.png)
 ## **Información:**
 
-Se inicia con un curso de Python para aprender el lenguaje en el que se va a trabajar. Posteriormente, se conocen sus librerías para introducirse en la ciencia de datos, y en el último tramo, el aprendizaje automático.
+Segundo módulo de la Diplomatura en Ciencia de Datos e Inteligencia Artificial de la UNSAM.
 
 ### La diplomatura consiste en tres módulos:
 - "Introducción" | `Programación en Python`
